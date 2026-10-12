@@ -5,11 +5,11 @@ I am Sourcer & Recruiter with experience in hiring and a strong interest in deep
 **GitHub Native No API (focus on finding Engineering/Applied Researchers talent based on location and high-signal; ideal if you don't want to use an API and want to save on LLM usage):**
 - [GitHub Native Private Search Template](https://github.com/catiasousa/Github-Native-Private-Search-Template)
 
-**arXiv (focused on finding Researchers in AI, Robotics, Quantum, etc. based on freshly published papers):** 
+**arXiv (focus on finding Researchers in AI, Robotics, Quantum, etc. based on freshly published papers):** 
 - [arXiv Talent Radar Native Claude](https://github.com/catiasousa/arXiv-Talent-Radar-Native-Claude)
 - [arXiv Talent Radar with Claude, n8n, Airtable](https://github.com/catiasousa/arXiv-Talent-Radar-with-Claude-n8n-Airtable) 
 
-**Hugging Face (focused on identifying high-signal AI talent):** 
+**Hugging Face (focus on identifying high-signal AI talent):** 
 - [HuggingFace Talent Radar Native Claude](https://github.com/catiasousa/HuggingFace-Talent-Radar-Native-Claude)
 - [HuggingFace Talent Radar with Claude, n8n, Airtable](https://github.com/catiasousa/HuggingFace-Talent-Radar-with-Claude-n8n-Airtable) 
 

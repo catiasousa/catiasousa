@@ -1,18 +1,22 @@
 Hi there! 👋
 
-I am Sourcer & Recruiter with experience in hiring and a strong interest in deep tech, infrastructure and open source. I have been building AI-assisted workflows for talent sourcing and discovery across GitHub, Hugging Face and arXiv (and top-tier AI, Robotics, Spacial Computing and Quantum venues and labs - these are private now, message me and I can provide access)  , with a focus on surfacing high-signal candidates and making the process more efficient for technical hiring.
+I'm a Sourcer and Recruiter with a strong interest in deep tech, infrastructure and open source. I build AI-assisted workflows that find strong technical candidates on GitHub, Hugging Face and arXiv, so hiring engineers and researchers takes less time.
 
-**GitHub Native No API (focus on finding Engineering/Applied Researchers talent based on location and high-signal; ideal if you don't want to use an API and want to save on LLM usage):**
+I also have tools for top AI, Robotics, Spatial Computing and Quantum venues and labs. These are private, so message me and I'll give you access.
+
+📫 [LinkedIn](YOUR-LINK) · [Email](mailto:YOUR-EMAIL)
+
+**GitHub, no API** (engineers and applied researchers by location; no API needed and low LLM usage)
 - [GitHub Native Private Search Template](https://github.com/catiasousa/Github-Native-Private-Search-Template)
 
-**arXiv (focus on finding Researchers in AI, Robotics, Quantum, etc. based on freshly published papers):** 
-- [arXiv Talent Radar Native Claude](https://github.com/catiasousa/arXiv-Talent-Radar-Native-Claude)
-- [arXiv Talent Radar with Claude, n8n, Airtable](https://github.com/catiasousa/arXiv-Talent-Radar-with-Claude-n8n-Airtable) 
-
-**Hugging Face (focus on identifying high-signal AI talent):** 
-- [HuggingFace Talent Radar Native Claude](https://github.com/catiasousa/HuggingFace-Talent-Radar-Native-Claude)
-- [HuggingFace Talent Radar with Claude, n8n, Airtable](https://github.com/catiasousa/HuggingFace-Talent-Radar-with-Claude-n8n-Airtable) 
-
-**GitHub Claude / n8n (focus on finding Engineering/Applied Researchers talent based on location and high-signal):** 
+**GitHub with Claude or n8n** (engineers and applied researchers by location)
 - [GitHub Talent Radar Native Claude](https://github.com/catiasousa/GitHub-Talent-Radar-Native-Claude)
-- [GitHub Talent Radar with Claude, n8n, Airtable](https://github.com/catiasousa/GitHub-Talent-Radar-with-Claude-n8n-Airtable) 
+- [GitHub Talent Radar with Claude, n8n, Airtable](https://github.com/catiasousa/GitHub-Talent-Radar-with-Claude-n8n-Airtable)
+
+**arXiv** (researchers in AI, Robotics, Quantum and more, from newly published papers)
+- [arXiv Talent Radar Native Claude](https://github.com/catiasousa/arXiv-Talent-Radar-Native-Claude)
+- [arXiv Talent Radar with Claude, n8n, Airtable](https://github.com/catiasousa/arXiv-Talent-Radar-with-Claude-n8n-Airtable)
+
+**Hugging Face** (AI talent with strong signals)
+- [HuggingFace Talent Radar Native Claude](https://github.com/catiasousa/HuggingFace-Talent-Radar-Native-Claude)
+- [HuggingFace Talent Radar with Claude, n8n, Airtable](https://github.com/catiasousa/HuggingFace-Talent-Radar-with-Claude-n8n-Airtable)

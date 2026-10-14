@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm a Sourcer and Recruiter with a strong interest in deep tech, infrastructure and open source. I build AI-assisted workflows that find strong technical candidates on GitHub, Hugging Face and arXiv, so hiring engineers and researchers takes less time.
+I'm a Sourcer and Recruiter with a strong interest in deep tech, infrastructure and open source. I have built AI-assisted workflows that find high-signal candidates on GitHub, Hugging Face, arXiv, etc. 
 
 I also have tools for top AI, Robotics, Spatial Computing and Quantum venues and labs. These are private, so message me and I'll give you access.
 

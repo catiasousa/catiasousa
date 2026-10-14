@@ -17,4 +17,6 @@ I also have tools for top AI, Robotics, Spatial Computing and Quantum venues and
 - [arXiv Talent Radar Native Claude](https://github.com/catiasousa/arXiv-Talent-Radar-Native-Claude)
 - [arXiv Talent Radar with Claude, n8n, Airtable](https://github.com/catiasousa/arXiv-Talent-Radar-with-Claude-n8n-Airtable)
 
-**Hugging Face** (AI talent with strong
+**Hugging Face** (AI talent with strong signals)
+- [HuggingFace Talent Radar Native Claude](https://github.com/catiasousa/HuggingFace-Talent-Radar-Native-Claude)
+- [HuggingFace Talent Radar with Claude, n8n, Airtable](https://github.com/catiasousa/HuggingFace-Talent-Radar-with-Claude-n8n-Airtable)

@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I am Sourcer & Recruiter with experience in hiring and a strong interest in deep tech, infrastructure and open source. I have been building AI-assisted workflows for talent sourcing and discovery across GitHub, Hugging Face and arXiv (and top-tier AI, Robotics, Spacial Computing and Quantum venues and Labs - these are private now, message me and I can provide access)  , with a focus on surfacing high-signal candidates and making the process more efficient for technical hiring.
+I am Sourcer & Recruiter with experience in hiring and a strong interest in deep tech, infrastructure and open source. I have been building AI-assisted workflows for talent sourcing and discovery across GitHub, Hugging Face and arXiv (and top-tier AI, Robotics, Spacial Computing and Quantum venues and labs - these are private now, message me and I can provide access)  , with a focus on surfacing high-signal candidates and making the process more efficient for technical hiring.
 
 **GitHub Native No API (focus on finding Engineering/Applied Researchers talent based on location and high-signal; ideal if you don't want to use an API and want to save on LLM usage):**
 - [GitHub Native Private Search Template](https://github.com/catiasousa/Github-Native-Private-Search-Template)

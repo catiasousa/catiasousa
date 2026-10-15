@@ -6,10 +6,10 @@ I also have tools for top ML, Robotics, Spatial Computing and Quantum venues and
 
 📫 [LinkedIn](PASTE-YOUR-LINKEDIN-URL) · [Email](mailto:catiasousa.recruitment@gmail.com)
 
-**GitHub, no API** (engineers and applied researchers by location; no API needed and low LLM usage)
+**GitHub, no API** (engineers and engineer researchers by location; no API needed and low LLM usage)
 - [GitHub Native Private Search Template](https://github.com/catiasousa/Github-Native-Private-Search-Template)
 
-**GitHub with Claude or n8n** (engineers and applied researchers by location)
+**GitHub with Claude or n8n** (engineers and engineer researchers by location)
 - [GitHub Talent Radar Native Claude](https://github.com/catiasousa/GitHub-Talent-Radar-Native-Claude)
 - [GitHub Talent Radar with Claude, n8n, Airtable](https://github.com/catiasousa/GitHub-Talent-Radar-with-Claude-n8n-Airtable)
 

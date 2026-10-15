@@ -2,7 +2,7 @@ Hi there! 👋
 
 I'm a Sourcer and Recruiter with a strong interest in deep tech, infrastructure and open source. I have built AI-assisted workflows that find high-signal candidates on GitHub, Hugging Face, arXiv and more.
 
-I also have tools for top AI, Robotics, Spatial Computing and Quantum venues and labs. These are private, so message me and I'll give you access.
+I also have tools for top ML, Robotics, Spatial Computing and Quantum venues and labs. These are private, so message me and I'll give you access.
 
 📫 [LinkedIn](PASTE-YOUR-LINKEDIN-URL) · [Email](mailto:catiasousa.recruitment@gmail.com)
 
@@ -13,10 +13,10 @@ I also have tools for top AI, Robotics, Spatial Computing and Quantum venues and
 - [GitHub Talent Radar Native Claude](https://github.com/catiasousa/GitHub-Talent-Radar-Native-Claude)
 - [GitHub Talent Radar with Claude, n8n, Airtable](https://github.com/catiasousa/GitHub-Talent-Radar-with-Claude-n8n-Airtable)
 
-**arXiv** (researchers in AI, Robotics, Quantum and more, from newly published papers)
+**arXiv** (researchers in ML, Robotics, Quantum and more, from newly published papers)
 - [arXiv Talent Radar Native Claude](https://github.com/catiasousa/arXiv-Talent-Radar-Native-Claude)
 - [arXiv Talent Radar with Claude, n8n, Airtable](https://github.com/catiasousa/arXiv-Talent-Radar-with-Claude-n8n-Airtable)
 
-**Hugging Face** (AI talent with strong signals)
+**Hugging Face** (ML talent with strong signals)
 - [HuggingFace Talent Radar Native Claude](https://github.com/catiasousa/HuggingFace-Talent-Radar-Native-Claude)
 - [HuggingFace Talent Radar with Claude, n8n, Airtable](https://github.com/catiasousa/HuggingFace-Talent-Radar-with-Claude-n8n-Airtable)
